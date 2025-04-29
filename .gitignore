@@ -1,2 +1,4 @@
 *.pdf
 *.pth
+*data
+*models
