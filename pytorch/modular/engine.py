@@ -12,6 +12,8 @@ def train_step(model, data, loss_fn, optimizer, accuracy_fn, device):
     for batch, (X, y) in enumerate(data):
         X = X.to(device=device)
         y = y.to(device=device)
+        
+        model.to(device=device)
 
         output = model(X)
         preds = torch.argmax(torch.softmax(output, dim=1), dim=1)
