@@ -1,5 +1,4 @@
 *.pdf
 *.pth
 *data
-*models
 *__pycache__
