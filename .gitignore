@@ -4,3 +4,5 @@
 *__pycache__
 *.txt
 .env
+*/english_tokenizer
+*/hindi_tokenizer
