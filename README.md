@@ -246,4 +246,4 @@ ML Engineer focused on:
 * Deep Learning Systems
 * AI Research & Engineering
 
-GitHub: [Harsh-Agarwals/NLP Repository](https://github.com/Harsh-Agarwals/NLP?utm_source=chatgpt.com)
+GitHub: [Harsh-Agarwals/NLP Repository](https://github.com/Harsh-Agarwals/NLP)
